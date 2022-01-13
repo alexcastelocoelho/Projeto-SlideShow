@@ -1,12 +1,12 @@
 'use strict ';
 
 const images = [
-    { 'id': '1', 'url':'./slideshow/chrono.jpg' },
-    { 'id': '2', 'url':'./slideshow/inuyasha.jpg' },
-    { 'id': '3', 'url':'./slideshow/ippo.png' },
-    { 'id': '4', 'url':'./slideshow/tenchi.jpg' },
-    { 'id': '5', 'url':'./slideshow/tenjhotenge.jpg' },
-    { 'id': '6', 'url':'./slideshow/yuyuhakusho.jpg' },
+    { 'id': '1', 'url':'./slideshow/spider.jpeg' },
+    { 'id': '2', 'url':'./slideshow/images.jpeg' },
+    { 'id': '3', 'url':'./slideshow/dragon ball.jpeg' },
+    { 'id': '4', 'url':'./slideshow/asl.jpeg' },
+    { 'id': '5', 'url':'./slideshow/itachi.jpeg' },
+    { 'id': '6', 'url':'./slideshow/rukia.jpeg' },
 ]
 
 const containerItems = document.querySelector('#container-items')
